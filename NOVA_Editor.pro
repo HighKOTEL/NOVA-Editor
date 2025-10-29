@@ -1,4 +1,3 @@
-# qt_code_editor.pro
 QT += core gui widgets
 CONFIG += c++17
 TARGET = nova_editor
